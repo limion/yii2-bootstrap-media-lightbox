@@ -8,7 +8,8 @@ composer.json
     "limion/yii2-bootstrap-media-lightbox": "*"
 },
 ```
-
+php
+-----
 ```php
 limion\bootstrap-media-lightbox\BootstrapMediaLightboxAsset::register($this);
 ```
