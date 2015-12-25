@@ -11,6 +11,6 @@ composer.json
 php
 -----
 ```php
-limion\bootstrap-media-lightbox\BootstrapMediaLightboxAsset::register($this);
+limion\bootstraplightbox\BootstrapMediaLightboxAsset::register($this);
 ```
 
