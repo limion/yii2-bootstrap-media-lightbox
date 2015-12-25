@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "limion\\bootstrap-media-lightbox\\": ""
+            "limion\\bootstraplightbox\\": ""
         }
     }
 }
