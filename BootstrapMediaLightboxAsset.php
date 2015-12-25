@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace limion\bootstrap-media-lightbox;
+namespace limion\bootstraplightbox;
 
 use yii\web\AssetBundle;
 
