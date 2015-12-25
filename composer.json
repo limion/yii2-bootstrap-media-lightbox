@@ -1,6 +1,6 @@
 {
     "name": "limion/yii2-bootstrap-media-lightbox",
-    "description": "yii2-bootstrap-media-lightbox",
+    "description": "Yii2 port for bootstrap-media-lightbox",
     "license": "BSD-3-Clause",
     "authors": [
         {
