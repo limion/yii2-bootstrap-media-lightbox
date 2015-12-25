@@ -1,0 +1,20 @@
+{
+    "name": "limion/yii2-bootstrap-media-lightbox",
+    "description": "yii2-bootstrap-media-lightbox",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Vladyslav Holovko",
+            "email": "vlad.holovko@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "bootstrap-plus/bootstrap-media-lightbox": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "limion\\bootstrap-media-lightbox\\": ""
+        }
+    }
+}
